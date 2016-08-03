@@ -1,18 +1,20 @@
 # magickal-mu-plugins
-Basis for my presentation
+
 Greetings my name Mikel King
 
-Let me start off by telling you a little about myself. I am currently the Lead Organizer for WordCamp NYC. I work for a company called TMBI, until recently known as Readers Digest Association. When I refer to RD I am mostly focusing on rd.com.
+Let me start off by telling you a little about myself. I am currently the Lead Organizer for WordCamp NYC. 
 
-That's right I am from NY and I tend to talk fast. I will not be offended if you raise your hand and ask me to slow down just keep in mind that we have a lot of ground to cover and somethings me get bumped if I don't keep it moving. Please save your questions and comments until the end. If I do not get to your question then come find me after this session in the help desk (a.k.a. Happiness Bar).
+How many of you have seen me talk before whether it's in person or even on WordPress.tv? 
+
+I work for a company called TMBI, until recently known as Readers Digest Association. When I refer to RD I am mostly focusing on rd.com. That's right I am from NY and I tend to talk fast. I will not be offended if you raise your hand and ask me to slow down just keep in mind that we have a lot of ground to cover and somethings me get bumped if I don't keep it moving. Please save your questions and comments until the end. If I do not get to your question then come find me after this session in the help desk (a.k.a. Happiness Bar).
 
 I have been in technology for well over 20 years and served 11 years in the U.S. Coast Guard in fact this is a photo of me when I was in the military. As you can see a bit has changed most notably I no longer have the ZPM powered helmet.
 
 Contacting me is pretty straight forward: 
-  twitter: @MikelKing
-  GitHub: https://github.com/mikelking
-  LinkedIn: https://www.linkedin.com/in/mikelking
-  x1: mikelking
+ * twitter: @MikelKing
+ * GitHub: https://github.com/mikelking
+ * LinkedIn: https://www.linkedin.com/in/mikelking
+ * x1: mikelking
 
 Today I am going to be talking and demonstrating some of the awesome power of MU plugins. 
 
