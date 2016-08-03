@@ -10,6 +10,8 @@ I work for a company called TMBI, until recently known as Readers Digest Associa
 
 I have been in technology for well over 20 years and served 11 years in the U.S. Coast Guard in fact this is a photo of me when I was in the military. As you can see a bit has changed most notably I no longer have the ZPM powered helmet.
 
+![Mikel King](/images/mk-sitting-in-helo.jpg)
+
 Contacting me is pretty straight forward: 
  * twitter: @MikelKing
  * GitHub: https://github.com/mikelking
@@ -47,7 +49,9 @@ Unfortunately there is a conundrum, because like the code in the functions.php M
 
 The solution was simple create building blocks of code 'like legos' that could be stacked together in a logical  way within a standard plugin that can be activated and deactivated at the application layer. So this library of MU plugin code just sits there waiting until it is called upon and then springs into action. The library of code for this is hosted on my public GitHub.
 
-Everything in OOP begins with the class which is the fundamental building bock of any OOP program. So before we delve to deep into that code I want to talk about the core facet of OOP as it pertains to MU plugins and that is inheritance. Everything within the braces of a class is a property of that class. In people we would call these traits. So for the sake of this discussion we will take a brief look at some people.
+Everything in OOP begins with the class which is the fundamental building bock of any OOP program. So before we delve to deep into that code I want to talk about the core facet of OOP as it pertains to MU plugins and that is inheritance. Without proper inheritance the mu plugin library would be untenable. 
+
+Everything within the braces of a class is a property of that class. In people we would call these traits. So for the sake of this discussion we will take a brief look at some people.
 
 
 
