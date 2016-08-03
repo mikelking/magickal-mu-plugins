@@ -18,7 +18,7 @@ Contacting me is pretty straight forward:
  * LinkedIn: https://www.linkedin.com/in/mikelking
  * x1: mikelking
 
-Today I am going to be talking and demonstrating some of the awesome power of MU plugins. 
+Today I am going to be talking and demonstrating some of the awesome power of MU plugins. Aspects of this presentation are partially available on GitHub [https://github.com/mikelking/magickal-mu-plugins](https://github.com/mikelking/magickal-mu-plugins). 
 
 In order to get the most out of MU plugins we need to cover a few things. First we need to make some assumptions. 
  * That the majority of you in this room are developers.
