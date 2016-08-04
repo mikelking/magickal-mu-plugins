@@ -6,11 +6,19 @@ Let me start off by telling you a little about myself. I am currently the Lead O
 
 How many of you have seen me talk before whether it's in person or even on WordPress.tv? 
 
-I work for a company called TMBI, until recently known as Readers Digest Association. When I refer to RD I am mostly focusing on rd.com. That's right I am from NY and I tend to talk fast. I will not be offended if you raise your hand and ask me to slow down just keep in mind that we have a lot of ground to cover and somethings me get bumped if I don't keep it moving. Please save your questions and comments until the end. If I do not get to your question then come find me after this session in the help desk (a.k.a. Happiness Bar).
+Those that have know that I really dislike the whole Q & A format and it not because I dislike answer questions it because 
 
-I have been in technology for well over 20 years and served 11 years in the U.S. Coast Guard in fact this is a photo of me when I was in the military. As you can see a bit has changed most notably I no longer have the ZPM powered helmet.
+ * It frames this as I am the authority on the subject and I believe that there are many different avenues
+ * I don't feel like the quality answers are achievable in such a short period
+ * I prefer intelligent conversations to volley ball Q & A
+
+Therefore, please save your questions and comments until the end. If I do not get to your question then come find me after this session in the help desk (a.k.a. Happiness Bar).
+
+I work for a company called TMBI, until recently known as Readers Digest Association. When I refer to RD I am mostly focusing on rd.com. That's right I am from NY and I tend to talk fast. I will not be offended if you raise your hand and ask me to slow down just keep in mind that we have a lot of ground to cover and somethings me get bumped if I don't keep it moving.
 
 ![Mikel King](/images/mk-sitting-in-helo.jpg)
+
+I have been in technology for well over 20 years and served 11 years in the U.S. Coast Guard in fact this is a photo of me when I was in the military. As you can see a bit has changed most notably I no longer have the ZPM powered helmet.
 
 Contacting me is pretty straight forward: 
  * twitter: @MikelKing
@@ -43,7 +51,6 @@ When I first arrived at RD 3 years ago hardly anything was pluginized. The funct
 At RD we now have a saying 'If it needs to be on the site then put it in a plugin.'
 
 However, this plugin stub proved to be inefficient as we started to build more plugins. There was too much duplication of code from one plugin implementation to another. This lead me to develop a more efficient framework based on one of the core tenants of OOP inheritance and the DRY principle. For those of you who do not know about DRY it stands for "Don't Repeat Yourself". So I distilled the duplicative code into a library of functions and then contemplated how to make them consistently available to the entire project which of course lead naturally to MU plugins.
- 
 
 Unfortunately there is a conundrum, because like the code in the functions.php MU plugins can not be activated or deactivated at will. The only way to deactivate a MU plugins is to physically remove it from the system. That's a major bummer and kind feels like a step backward.
 

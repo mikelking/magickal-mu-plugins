@@ -8,3 +8,5 @@ class Great_Grand_Mother extends Great_Great_Grand_Father {
     const ALLERGIES  = 'None';
 
 }
+
+
